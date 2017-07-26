@@ -1,0 +1,11 @@
+{
+  "pages": [
+    
+    "pages/index/index",
+    "pages/login/login"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarTitleText": "测试"
+  }
+}
